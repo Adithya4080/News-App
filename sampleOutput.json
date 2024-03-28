@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Exciting new cancer drug kinder than chemotherapy",
+      "description": "Arthur, 11, was one of the first in the UK to try blinatumomab, for his type of blood cancer.",
+      "url": "https://www.bbc.co.uk/news/health-67793887",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/113E9/production/_132333607_df7aa268-b725-4ce9-b346-b76ddc3dbc39.jpg",
+      "publishedAt": "2024-01-17T08:07:18.9633636Z",
+      "content": "Some children with cancer are receiving a new type of drug treatment far less toxic than chemotherapy. \r\nArthur, 11, is one of the first to try it, at London's Great Ormond Street Hospital, for his b… [+4013 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Hannah Waddingham reveals drama teacher's insult that spurred her on to be TV star",
+      "description": "The Ted Lasso star says a drama teacher once told her she'd never succeed because of her appearance.",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-67992732",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8FC4/production/_132340863_2139b6a341290c24aa65ff5342bb3494d393c2eb.jpg",
+      "publishedAt": "2024-01-17T08:07:16.7279201Z",
+      "content": "Ted Lasso star Hannah Waddingham has spoken about how a drama teacher once told her she would never succeed in TV because of her appearance.\r\n\"I had one drama teacher that said to the whole class: 'O… [+3532 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Pakistan says children killed in Iranian strike",
+      "description": "The country's foreign ministry has called the airstrike - which Iran says targeted militants - illegal.",
+      "url": "https://www.bbc.co.uk/news/world-asia-67999465",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/174DE/production/_132345459_2a34eacff103c9cb52b3b8df13519eb0810a0f1d0_0_2736_18241000x667.jpg",
+      "publishedAt": "2024-01-17T06:52:17.0890581Z",
+      "content": "Pakistan says two children were killed and three others injured in strikes by neighbouring Iran on Tuesday.\r\nIran said it targeted two bases linked to the militant group Jaish al-Adl, according to a … [+2754 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Recording of US Defence Secretary Lloyd Austin's 911 emergency call released",
+      "description": "A caller urged emergency services to be \"subtle\" when coming to treat the defence chief at his home.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68002751",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E1FE/production/_132345875_gettyimages-1807726536.jpg",
+      "publishedAt": "2024-01-17T03:37:15.3855705Z",
+      "content": "Officials have released the emergency phone call that led to US Defence Secretary Lloyd Austin being admitted to hospital on New Year's Day. \r\nMr Austin's delay in telling colleagues and the White Ho… [+2174 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "US voters react to Trump's commanding win in Iowa",
+      "description": "As the ex-president tightened his grip on the party, Republicans voters say only he can \"save\" the US.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-67994816",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14EA/production/_132345350_index.png",
+      "publishedAt": "2024-01-17T03:37:13.7903609Z",
+      "content": "As expected, former President Donald Trump was the clear winner of the Iowa Caucuses with a landslide victory on Monday night. The result is the first step towards setting up a rematch with President… [+6528 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "E Jean Carroll faces off with Trump as $10m defamation trial begins",
+      "description": "Fresh off his victory in Iowa, the former president sits in a New York courtroom with his rape accuser.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-67964678",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8C67/production/_132334953_5dd57d9864c975e466fcf298442149286a2c2a270_338_6000_33751000x563.jpg",
+      "publishedAt": "2024-01-17T01:52:12.8691559Z",
+      "content": "The split screen of Donald Trump's re-election campaign and his parade of legal cases was on full display on Tuesday, as the Republican frontrunner, fresh off a victory in the Iowa caucuses, took his… [+6013 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Oldest US Senator Chuck Grassley admitted to hospital over infection",
+      "description": "The long-time Iowa legislator is receiving antibiotic infusions in his home state of Iowa.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68002443",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15E36/production/_132345698_gettyimages-1833281880.jpg",
+      "publishedAt": "2024-01-17T00:22:16.0095744Z",
+      "content": "Republican Chuck Grassley, the oldest member of the US senate, has been admitted to hospital where he is being treated for an infection.\r\nThe 90-year-old Senator is receiving antibiotic infusions at … [+1485 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "FBI investigate after ex-Abercrombie boss sex claims",
+      "description": "Special agents are now interviewing and issuing subpoenas to potential witnesses, the BBC understands.",
+      "url": "https://www.bbc.co.uk/news/world-67991750",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/510E/production/_131305702_abercrombie_index_jeffries_976-2.png",
+      "publishedAt": "2024-01-17T00:22:14.4630853Z",
+      "content": "The FBI has begun an investigation after the BBC revealed claims that the former CEO of Abercrombie &amp; Fitch (A&amp;F) sexually exploited and abused men at events he hosted around the world.\r\nMike… [+3924 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Nikki Haley faces New Hampshire battle to stay in fight with Trump",
+      "description": "Nikki Haley insists she's still the only candidate who can beat him. Time is running out to prove it.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68001791",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7DFE/production/_132345223_gettyimages-1928402055.jpg",
+      "publishedAt": "2024-01-16T22:52:11.0883573Z",
+      "content": "On a frigid, snowy day in Concord dozens of people wearing Nikki Haley pins and t-shirts gathered in signature red booths at the New Hampshire-famous Red Arrow Diner. \r\nThey were waiting for a surpri… [+5612 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Israel Gaza war: Deal reached on aid to Gaza, including to hostages",
+      "description": "Under the deal, brokered by Qatar and France, new aid is to reach both Gaza civilians and Israeli hostages.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68000227",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13D02/production/_132345118_mediaitem132345117.jpg",
+      "publishedAt": "2024-01-16T21:22:14.5872566Z",
+      "content": "Israel and Hamas have reached a deal to allow more humanitarian aid into war-ravaged Gaza, Qatari mediators say.\r\nThey say that under a deal brokered by Qatar and France, medicines will be given to h… [+1511 chars]"
+    }
+  ]
+}
